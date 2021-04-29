@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman(mrwhite)
-- 👀 I’m interested in computer security, and I play CTF's
+- 👀 Interested in computer security, and I play CTF's
 - 🌱 I’m currently learning Web-Development
 - 📫 How to reach me [twitter - https://twitter.com/mr_white08]
 
